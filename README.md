@@ -1,4 +1,4 @@
-# [![Arete](assets/arete logo color x256.png)](https://www.areteengine.com/)
+# [![Arete](assets/arete_logo_color_x256.png)](https://www.areteengine.com/)
 
 [![Discord](https://img.shields.io/discord/691052431525675048.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/H7eXhVr6wY)
 
