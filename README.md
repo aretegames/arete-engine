@@ -1,6 +1,4 @@
-# [![Arete](assets/arete_logo_color_x256.png)](https://www.areteengine.com/)
-
-[![Discord](https://img.shields.io/discord/691052431525675048.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/H7eXhVr6wY)
+[![Discord](https://static.wixstatic.com/media/11062b_eebce7b1439f4f639a65e6ee84ca0f8a~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_eebce7b1439f4f639a65e6ee84ca0f8a~mv2.png)](https://discord.com/invite/H7eXhVr6wY)
 
 # Arete Engine
 
