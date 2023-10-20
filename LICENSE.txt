@@ -1,0 +1,88 @@
+Arete Games End User License Agreement
+Updated: October 19, 2023
+
+This End User License Agreement (the “EULA”) is a legal agreement between Arete Games, Inc., (“Arete”) and you, governing your use of the Arete software and source code made available under this EULA (including any Modifications, the “Software”); provided if you have signed a separate agreement with Arete which governs your use of the Software, then that other agreement will apply in lieu of this EULA. This EULA will also govern any Software upgrades or updates provided by Arete, when and if available, unless such upgrades or updates are accompanied by a separate license, in which case the terms of that separate license will apply. 
+ 
+BY CLICKING “I ACCEPT,” OR BY DOWNLOADING, INSTALLING, COPYING, OR OTHERWISE ACCESSING OR USING THE SOFTWARE, YOU AGREE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THIS EULA. IF YOU ARE ENTERING INTO THIS EULA ON BEHALF OF A LEGAL ENTITY, THEN YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY TO THIS AGREEMENT, AND THE TERM “YOU” WILL REFER TO SUCH ENTITY. IF YOU DO NOT AGREE OR ARE NOT ELIGIBLE TO USE THE SOFTWARE, YOU MAY NOT DOWNLOAD, INSTALL, COPY, OR OTHERWISE ACCESS OR USE THE SOFTWARE. 
+
+LIMITED LICENSE.
+
+The Software is licensed, not sold; Arete grants you only those rights expressly granted to you in this EULA.
+
+Software. Subject to your compliance with the terms and conditions in this EULA, Arete hereby grants you a limited, non-exclusive, non-transferable, non-sublicensable, license to use, reproduce, modify and create derivative works of the Software, including the right to incorporate the Software into other works during the term of this EULA. 
+
+Modifications. The Software also includes any modifications or derivative works of the Software that you, or others on your behalf, create (“Modifications”) (notwithstanding 1.iii).
+
+Modules Exception. The Software allows for certain modifications that are built on-top of the  Software (“Modules”). Modules are classified as any code that does not include the Arete Engine runtime or core engine architecture otherwise considered Software. Modules created by you may be open-source or proprietary, in your sole discretion. Modules created by you are attached with ownership rights subject to 5.ii. Modules created by Arete may be open-source or proprietary, in its sole discretion, and are subject to the rights and licenses under this EULA.
+
+Custom Licenses. If you would like to license the Software under different terms than those contained herein, you may request to enter into a separate agreement with Arete to govern your use of the Software. Arete may, but is not obligated to, enter into any separate agreements for such modified terms under a separate agreement. 
+
+PRODUCTS.
+
+Subject to the terms and conditions of this EULA, you may (i) use the Software or combine the Software with third-party software to develop products or services (“Products”);  and (ii) provide or otherwise make available a copy of the Software in object code format only as part of the Product to any other persons or entities or otherwise make the Product’s functionality available on a third-party network. 
+
+RESTRICTIONS ON USE.
+
+You will not, and will not permit or authorize any third party, to: (i) sublicense, rent, sell, lend, commercialize or otherwise use the Software in any manner other than as contemplated in this EULA; (ii) interfere with or circumvent any feature of the Software, including any security or access control mechanism; (iii) publish, transfer, or otherwise make the Software available for others to copy, including pursuant to the terms of any open source license; (iv) use the Software in violation of any applicable laws, rules, or regulations, or any third party rights; (v) use the Software to create any product, service, or technology that is similar to or competes with the Software; (vi) remove, alter, or obscure in any way any proprietary rights notices (including any copyright, patent, or trademark notices and symbols) of Arete or its licensors; or (vii) use the Software in connection with any open-source development tools, software, scripts or libraries in such a manner that the Software would be required to be disclosed or distributed in source code form, licensed for the purpose of making derivative works, or redistributed free of charge. 
+
+ROYALTIES.
+
+Royalty-Free Access. Arete provides access to the Software for free, until any Product you create exceeds $1,000,000 USD in gross revenue (the “Royalty Threshold”).
+
+Royalty Payments. If a Product exceeds the Royalty Threshold, you will pay to Arete a royalty of 1% of Net Sales (“Royalty”). “Net Sales” means the gross amount you or your third-party distributors receive for sales of the Product, less any actual and verifiable costs of packing, insurance, transport, delivery, customary and usual trade discounts (not to exceed 10% of amounts received), sales taxes, freight, and duty charges.
+
+Audit. You will keep accurate books and records to verify the Royalty payable to Arete under this EULA. Arete will have the right to audit such books and records upon reasonable notice. Any audit shall be at Arete’s expense, except that you will reimburse Arete for the cost of the audit in the event that Arete discovers an underpayment of five percent (5%) or more.
+
+OWNERSHIP.
+
+Arete Ownership. As between the parties, Arete solely owns and retains all right, title, and interest (including all intellectual property rights) in and to the Software (subject to the limited license grant in 1.i) as well as any content, visual interfaces, look and feel, interactive features, information, graphics, design, compilation, computer code, and all other elements of the Software (the “Arete Materials”). You may not sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit, adapt, create derivative works from, or make any use of the Arete Materials except as expressly authorized under this EULA. You hereby irrevocably assign all right, title, and interest (including all intellectual property rights) in Modifications to Arete. No license, right, or interest in Arete’s name, or any Arete trademark, product, or technology is granted to you pursuant to this EULA. 
+
+Your Ownership. As between the parties, you solely own all right, title, and interest (including all intellectual property rights) to any Products, subject to Arete’s underlying rights in the Software (including Modifications). You solely own the right to any Modules covered under 1.iii.
+
+Proprietary Notices and Attribution. You agree to retain the copyright, trademark, or any other proprietary notices and disclaimers of Arete as they appear in the Software. 
+
+Reservation of Rights. All rights not expressly granted in this EULA are reserved and neither party grants to the other any implied rights or licenses under any theory. 
+
+TERM AND TERMINATION. 
+
+Term; Termination. This EULA commences on the date you first access or use the Software and will remain in effect until terminated (the “Term”). This EULA, and your rights and licenses under this EULA, will terminate immediately and automatically upon your breach of any terms of this EULA. You may terminate this EULA at any time by ceasing all use of the Software.
+
+Effects of Termination. Upon termination of this EULA you must immediately cease using the Software, remove any Software incorporated in a Product, and destroy all copies of the Software. 
+
+Survival. Your duty to pay all Royalties, liabilities incurred prior to the effective date of termination, and Sections 3, 4, 5, 6.ii, 6.iii, 8, 9, 10, 11, 12, and 13 will survive the termination of this EULA. 
+
+REPRESENTATIONS, AND WARRANTIES.
+
+You represent, warrant, and covenant that (i) your use of the Software will at all times comply with the terms of this EULA; (ii) that you will not use the Software for the purpose of violating proprietary or other intellectual property rights or privacy rights of any third party or Arete; (iii) you have not previously been prohibited from using the Software; and (iv) your use of the Software is in compliance with any and all applicable laws and regulations. 
+
+WARRANTY DISCLAIMER.
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE” BASIS WITHOUT WARRANTIES OF ANY KIND. ARETE AND ITS RESPECTIVE SUPPLIERS AND LICENSORS HEREBY DISCLAIM ALL IMPLIED WARRANTIES IN CONNECTION WITH THE SAME, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE. ARETE DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED OR THAT ANY ERRORS WILL BE CORRECTED. WITHOUT LIMITING THE FOREGOING, YOU ARE SOLELY RESPONSIBLE FOR ALL RESULTS AND CONSEQUENCES ARISING FROM OR RELATED TO ANY USE OR EXPLOITATION OF THE SOFTWARE OR ANY MODIFICATIONS OR PRODUCTS.
+
+LIMITATION OF LIABILITY.
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WILL ARETE BE LIABLE FOR PERSONAL INJURY, OR ANY LOST PROFITS OR CONSEQUENTIAL, SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, OR PUNITIVE DAMAGES WHATSOEVER ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ARETE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL ARETE’S AGGREGATE LIABILITY FOR DAMAGES ARISING OUT OF THIS EULA EXCEED THE GREATER OF ROYALTIES PAID BY YOU FOR THE SOFTWARE (IF ANY) OR US$50.
+
+INDEMNIFICATION.
+
+To the fullest extent permitted by law, you agree to defend, indemnify, and hold harmless Arete and its respective officers, directors employees, consultants, agents, advisors, vendors and suppliers, from and against all expenses, losses or other liabilities incurred in connection with any third party claim (each, a “Claim”) arising from or relating to: (i) any unauthorized use or misuse of the Software by you; (ii) any Modifications or Products; or (iii) any material breach of this EULA by you, including any breach of your representations and warranties, or using the Software in violation of law. Arete reserves the right to assume the exclusive defense and control of any Claim if Arete determines, in its sole discretion, that you are unwilling or incapable of sufficiently defending Arete’s interests in connection with the Claim, and you agree to cooperate with Arete to assist in the defense of the applicable Claim at your sole expense.
+
+THIRD PARTY TERMS.
+
+The Software may include third party software (“Third Party Software”) available to you under separate license terms (the “Third Party Terms”). If applicable, Arete will provide you a list of such Third Party Software and the applicable Third Party Terms. By agreeing into this EULA and using the Third Party Software, you are accepting the applicable Third Party Terms. Your use of the Software in a manner consistent with this EULA is permitted, however you may have additional rights under the applicable Third Party Terms. Nothing in this EULA reduces, or is intended to reduce, your rights to obtain and use such Third Party Software under the Third Party Terms. In the event of a conflict between this EULA and the Third Party Terms, the Third Party Terms will control solely with respect to the applicable Third Party Software licensed under the Third Party Terms. You agree that the owners of the Third Party Software are intended third party beneficiaries to this EULA in relation to your uses of Third Party Software.
+
+MODIFICATIONS.
+
+Arete continuously develops its products and services. Arete reserves the right, in its sole discretion and at any time, to change, modify, add, or remove the Software or portions of the Software, or to modify this EULA. This EULA will be identified as of the most recent date of revision and will be effective immediately upon being made available. Arete may require that you accept modified terms in order to continue to use the Software. If you are dissatisfied with the terms of this EULA or of its any modifications, your sole and exclusive remedy is to discontinue use of and uninstall the Software.
+
+MISCELLANEOUS.
+
+General Provisions. This EULA and the terms accompanying any upgrade or update to the Software are the entire agreement between you and Arete regarding the Software, and supersedes any and all prior or contemporaneous agreements, negotiations, proposals, representations, or other communications between you and Arete, whether oral or written, with respect to the Software or any other subject matter covered by this EULA. You agree to comply with all applicable local laws and regulations that may govern your use of the Software. In the event that any provision of this EULA is held to be void, invalid, or unenforceable, then: (i) the provision will be deemed reformed to the extent strictly necessary to render the provision valid and enforceable to reflect the original intent of the parties, or (ii) if not capable of reformation will be deemed severed from this EULA; and the validity and enforceability of all of the other provisions of this EULA will continue in full force and effect. You may not assign this EULA without the prior written consent of Arete, whether expressly or by operation of law, and any such attempted assignment is void. Arete may assign this EULA without restriction and without any notice to you. The failure to exercise, or delay in exercising, a right, power or remedy provided in this EULA or by law will not constitute a waiver of that right, power or remedy. No waiver of any breach of any provision of this EULA by Arete will constitute a waiver of any prior, concurrent or subsequent breach of the same or any other provisions hereof, and no waiver will be effective unless it is made in writing and signed by an authorized representative of Arete. All notices required to be sent under this EULA will be in writing and will be deemed to have been given upon the date sent by email if done during normal business hours (or on the next business day if sent after business hours). If you are an agent of the U.S. Government, the Software is licensed to you as a commercial item (as defined under 48 CFR §2.101) under the provisions of this EULA only. Use, duplication, and disclosure by civilian agencies of the U.S. Government will be in accordance with the terms of this EULA and FAR 52.227-19(b), or its current equivalent. Consistent with DFARS 227.7202 or its current equivalent, use, duplication, and disclosure by DOD agencies is subject solely to the terms of this EULA. 
+
+Equitable Relief. You acknowledge that a breach of this EULA may cause Arete irreparable damage, for which the award of damages would not be adequate compensation. Consequently, Arete may institute an action seeking to enjoin you from any and all acts in violation of those provisions, or any breach or threatened breach of such provisions, which remedy will be cumulative (and not exclusive) and in addition to any other relief to which Arete may be entitled at law or in equity.
+
+Governing Law; Venue. The validity, interpretation and performance of this EULA will be governed by and construed in accordance with the laws of the State of California, without regard to its choice of law principles. Any action or dispute arising out of or in connection with this EULA will be heard in the state or federal courts located in Santa Clara County, California, and each party hereby irrevocably consents to the exclusive jurisdiction and venue of those courts.
+
+Export Controls. You acknowledge that the Software may be subject to U.S. export jurisdiction. You agree to comply with all applicable international and national laws that apply to the Software, including the U.S. Export Administration Regulations, as well as end-user, end-use, and destination restrictions issued by U.S. and other governments. You may not download or use the Software if (i) you are located in a country that is subject to a U.S. Government embargo or that has been designated by the U.S. Government as a “terrorist supporting” country or (ii) you are listed on any U.S. Government list of prohibited or restricted parties.
+
+No Support. Arete is under no obligation to provide support for the Software. In instances where Arete may offer support, the support will be subject to published policies.
