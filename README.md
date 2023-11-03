@@ -6,8 +6,18 @@
 
 Arete is a performance-first game engine. It intends to be a complete engine solution, from coding to rendering. It is particularly fast on unified-memory platforms -- that is, phones, VR headsets, many laptops, and consoles.
 
+[<u>Arete FAQ</u>](https://www.areteengine.com/faq)
+
+
+
 ## Arete is in early development 🚧
 
 Arete is not recommended for use in production. It is missing many features, and the features it does have will change.
 
 Arete has not yet been officially released, and like many things, this page is under construction. Check back soon for more information!
+
+## Arete Engine Wiki
+
+Arete Wiki is our primary source for Arete guides and documentation.
+
+[<u>Arete Wiki</u>](https://github.com/aretegames/arete-engine/wiki)
